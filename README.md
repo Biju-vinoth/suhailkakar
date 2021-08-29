@@ -1,10 +1,10 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Suhail Kakar</h1>
+<h1 align="left" id="Vinoth-title">:wave: Hello there! I'm Suhail Kakar</h1>
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+<a href="#Vinoth-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vinoth" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#Vinoth-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript

@@ -1,6 +1,6 @@
 
 <h1 align="left" id="Vinoth-title">:wave: Hello there! I'm Suhail Kakar</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
+<h3 align="left">I am a DevOps admin  </h3>
 
 
 <a href="#Vinoth-title">
